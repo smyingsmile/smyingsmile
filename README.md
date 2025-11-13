@@ -1,12 +1,9 @@
 ## Hey there 👋 I'm Monica
 
-Full-stack-focused frontend specialist with 6+ years in enterprise delivery across **finance, supply-chain and EdTech**.
-
-Expert in **Angular, Vue2; familiar with React, Vue3, TypeScript & RxJS**. 
-
-Hands-on **TDD, micro-frontends, component library development, performance optimization & i18n**.
-
-Cross-disciplinary background (M.A. Journalism, B.A. English) + PMP. Fluent in English, experienced in **global** teams.
+A full-stack-focused frontend specialist with 6+ years in enterprise delivery across **finance, supply-chain and EdTech**.  
+Expert in **Angular, Vue2; familiar with React, Vue3, TypeScript & RxJS**.  
+Hands-on **TDD, micro-frontends, component library development, performance optimization & i18n**.  
+Cross-disciplinary background (M.A. Journalism, B.A. English) + PMP. Fluent in English, experienced in **global** teams.  
 
 - 👯 I’m looking for a new job!
 - 🌱 I’m currently learning how to use React in project and how to keep the balance with AI tools in coding.
