@@ -32,9 +32,7 @@ Cross-disciplinary background (M.A. Journalism, B.A. English) + PMP. Fluent in E
 - 在读书目:
   - 程序员修炼之道
   - 重构: 改善既有代码的设计
-- 附上一张我喜欢的图, 来自 <凡人修仙传>
-  - ![江山](https://github.com/user-attachments/assets/94e099a6-324f-4d6e-bbe3-a0721963027b)
-
+- 欢迎交流!
 
 <!--
 **smyingsmile/smyingsmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
