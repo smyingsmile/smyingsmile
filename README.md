@@ -28,7 +28,8 @@ Cross-disciplinary background (M.A. Journalism, B.A. English) + PMP. Fluent in E
   - 计划使用 React 重写贝塞尔曲线
 - 在读书目:
   - 程序员修炼之道
-  - 重构: 改善既有代码的设计
+  - ~~重构: 改善既有代码的设计(已读完)~~
+  - 设计模式:可复用面向对象软件的基础
 - 欢迎交流!
 
 <!--
