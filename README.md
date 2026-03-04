@@ -19,16 +19,15 @@ Cross-disciplinary background (M.A. Journalism, B.A. English) + PMP. Fluent in E
   - 数据可视化爱好者
   - 面向全栈的前端
   - 务实的程序员
-- 近期我已离职, 在找寻新的工作机会, 期待能接触到**前端 + AI**的工作
+- 近期我已离职, 在找寻新的工作机会, 期待能接触到**前端/全栈 + AI**的工作
 - 近期大部分时间在做编程领域的"木炭习作" ->
-  - ~~学习和扩充前端的领域知识, 如框架 React 的写法, tailwind CSS等(完成)~~
-  - ~~使用含有自定义伪指令的汇编和 python 重写 asm-vm 指令集(已完成)~~
   - 领域扩展, 进一步培养从前端到全栈的架构视角
-  - 尝试使用 AI 完成我刷牙时候想到的一个应用项目, YIDA, 之后我会更新在 *[MonicaAI-Test repo](https://github.com/smyingsmile/MonicaAI-Test)*
-  - 继续了解图形学的相关知识, 使用 React 重写贝塞尔曲线
+  - 尝试使用 AI 完成我刷牙时候想到的一个应用项目, YIDA, 当前未完成, 更新在 *[YIDA repo](https://github.com/smyingsmile/YIDA)*
+  - 继续了解图形学和线性代数的相关知识
 - 在读书目:
   - 凤凰架构:构建可靠的大型分布式系统（The Phoenix Architecture）
-  - 设计模式:可复用面向对象软件的基础
+  - 智慧的疆界
+  - 设计模式
 - 欢迎交流!
 
 <!--
