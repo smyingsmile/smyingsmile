@@ -1,34 +1,44 @@
 ## Hey there 👋 I'm Monica
 
-A full-stack-focused frontend specialist with 6+ years in enterprise delivery across **finance, supply-chain and EdTech**.  
-Expert in **Angular, Vue2; familiar with React, Vue3, TypeScript & RxJS**.  
-Hands-on **TDD, micro-frontends, component library development, performance optimization & i18n**.  
-Cross-disciplinary background (M.A. Journalism, B.A. English) + PMP. Fluent in English, experienced in **global** teams.  
+A fullstack software engineer with 6+ years in enterprise delivery across **finance, supply-chain and EdTech**.
+Focused on **AI Agent** system design and **full-stack engineering** — building production-grade Multi-Agent applications with real-world LLM orchestration.
+Expert in **Angular**, Vue 2/3; familiar with React, TypeScript & RxJS.
+Hands-on with **TDD, micro-frontends, component library development, performance optimization, data visualization & i18n**.
+**Cross-disciplinary background** (M.A. Journalism, B.A. English) + PMP. 
+Fluent in English, experienced in global teams.
 
-- 👯 I’m looking for a new job!
-- 🌱 I’m currently learning how to use React in project and how to keep the balance with AI tools in coding.
-- 🤔 I’m reading the books --- **Refactoring: Improving the Design of Existing Code** && **The pragmatic programmer**.
+- 👯 I'm actively looking for opportunities in AI Agent / Full-Stack Engineering!
+- 🌱 I'm currently building YIDA — an AI-powered outfit assistant (iOS, Swift · Orchestrator Agent · multi-modal LLM · pgvector RAG) that I thought of while brushing my teeth.
+- 🔭 Expanding my stack: deepening full-stack architecture thinking, exploring computer graphics and linear algebra on the side.
+- 📖 Currently reading: The Psychology of Computer Programming.
+- 📚 Previously read: The Phoenix Architecture, Boundaries of Intelligence, Refactoring, The Pragmatic Programmer.
 - 💬 Ask me about anything.
-- 📫 How to reach me: **499159227@qq.com**.
-- ⚡ Fun fact: I love hot pot likes you.😄
+- 📫 How to reach me: 499159227@qq.com
+- ⚡ Fun fact: I love hot pot likes you. 😄
 
 ## 你好呀~ 
-我是 Shen Manying! 欢迎来到我的机器之心!
-- 我的自定义tag ->
-  - 6年+企业级交付经验
+我是 **Shen Manying**！欢迎来到我的**机器之心**！
+
+- 我是谁？
+  - 6年+ 企业级交付经验
   - 数据可视化爱好者
-  - 面向全栈的前端
-  - 务实的程序员
-- 近期我已离职, 在找寻新的工作机会, 期待能接触到**前端/全栈 + AI**的工作
-- 近期大部分时间在做编程领域的"木炭习作" ->
-  - 领域扩展, 进一步培养从前端到全栈的架构视角
-  - 尝试使用 AI 完成我刷牙时候想到的一个应用项目, YIDA, 当前未完成, 更新在 *[YIDA repo](https://github.com/smyingsmile/YIDA)*
+  - 产品向的 Agent 系统设计师
+  - Vibe Coding 实践者
+  - 务实又进击的程序工程师
+- 近期已离职，正在寻找 AI Agent / 全栈工程师 方向的新机会
+- 近期在做的事 →
+  - 领域扩展，进一步将全栈的架构视角迁移至 AI 应用的各个领域
+  - 自研 Multi-Agent 应用 YIDA：一个刷牙时想到的 AI 智能穿搭助手（Swift · Orchestrator Agent · 多模态模型 · pgvector RAG），持续更新中
   - 继续了解图形学和线性代数的相关知识
-- 在读书目:
-  - 凤凰架构:构建可靠的大型分布式系统（The Phoenix Architecture）
+- 在读书目：
+  - 程序开发心理学
+  - 四书章句集注
+- 已读书目：
+  - 凤凰架构：构建可靠的大型分布式系统
   - 智慧的疆界
-  - 设计模式
-- 欢迎交流!
+  - 重构
+  - 程序员修炼之道
+**欢迎交流！**
 
 <!--
 **smyingsmile/smyingsmile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
