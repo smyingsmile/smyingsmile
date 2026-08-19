@@ -25,19 +25,20 @@ Fluent in English, experienced in global teams.
   - 产品向的 Agent 系统设计师
   - Vibe Coding 实践者
   - 务实又进击的程序工程师
-- 近期已离职，正在寻找 AI Agent / 全栈工程师 方向的新机会
+- 正在寻找全栈工程师偏后端方向的新机会
 - 近期在做的事 →
   - 领域扩展，进一步将全栈的架构视角迁移至 AI 应用的各个领域
-  - 自研 Multi-Agent 应用 YIDA：一个刷牙时想到的 AI 智能穿搭助手（Swift · Orchestrator Agent · 多模态模型 · pgvector RAG），持续更新中
+  - 自研 Multi-Agent 应用 YIDA 的持续更新
   - 继续了解图形学和线性代数的相关知识
+  - 全栈系统设计的延伸
 - 在读书目：
   - 程序开发心理学
-  - 四书章句集注
 - 已读书目：
   - 凤凰架构：构建可靠的大型分布式系统
   - 智慧的疆界
   - 重构
   - 程序员修炼之道
+  - 四书章句集注
 **欢迎交流！**
 
 <!--
